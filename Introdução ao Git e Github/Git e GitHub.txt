@@ -1,6 +1,6 @@
 Link para Download do Git: https://git-scm.com/download/win
 
-Pra clonar o reposito copie o link no GitHub, abra o Git Bash em uma pasta de sua escolha no terminal digite os seguintes comandos.
+Para clonar o repositorio, copie o link no GitHub e abra o Git Bash em uma pasta de sua escolha, no terminal digite os seguintes comandos.
 
 git clone + link do repositorio
 cd + caminho para pasta do repositorio adicionado 
