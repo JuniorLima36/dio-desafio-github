@@ -6,7 +6,7 @@ git clone + link do repositorio
 cd + caminho para pasta do repositorio adicionado 
 
 
-Para adicionar algum arquivo ou pasta ao repositorio online 
+Depois de fazer alterações ou adicionar arquivos no repositorio local, use os seguintes comandos para subir as alterações para o repositorio online.
 
 git status 
 git add .
